@@ -64,7 +64,11 @@ a {
     list-style: none;
 }
 
-.inactive-link {
+.active-link {
+    text-decoration: underline;
+}
+
+a {
     text-decoration: none;
 }
 
@@ -382,5 +386,6 @@ a {
     max-width: 240px;
     max-height: 48px;;
 }
+
 
 
